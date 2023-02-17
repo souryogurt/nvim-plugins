@@ -1,0 +1,15 @@
+[submodule "opt/nvim-treesitter"]
+	path = opt/nvim-treesitter
+	url = git@github.com:nvim-treesitter/nvim-treesitter.git
+[submodule "opt/nvim-web-devicons"]
+	path = opt/nvim-web-devicons
+	url = git@github.com:nvim-tree/nvim-web-devicons.git
+[submodule "opt/plenary"]
+	path = opt/plenary
+	url = git@github.com:nvim-lua/plenary.nvim.git
+[submodule "opt/telescope"]
+	path = opt/telescope
+	url = git@github.com:nvim-telescope/telescope.nvim.git
+[submodule "opt/catppuccin"]
+	path = opt/catppuccin
+	url = git@github.com:catppuccin/nvim.git
